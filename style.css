@@ -1,6 +1,6 @@
 body {
-  color: #000000;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #000000;
   text-align: center;
   font-family: monospace;
   text-transform: lowercase;
@@ -13,7 +13,7 @@ body {
 }
 
 a {
-  color: #fb040c;
+  color: #dcc17a;
   text-decoration: none;
 }
 
@@ -23,5 +23,6 @@ a:hover, a:active {
 
 table, th, td {
   border-collapse: collapse;
-  border: 1px solid black;
+  border: 1px solid #ffffff;
+  padding: 4px;
 }
